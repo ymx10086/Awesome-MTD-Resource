@@ -25,8 +25,8 @@ SOFTWARE.
 </h3> -->
 
 <h1 align="center">
-    <p>LLM4Network & Malicious Traffic Detection Analysis Resources</p>
-    <p>LLM4Network & 恶意流量检测相关研究资源汇总</p>
+    <p>LLM4Network & Malicious Traffic Detection & Encrypted Traffic Classification & Website Fingerprinting Resources</p>
+    <p>LLM4Network & 恶意流量检测 & 加密流量分类 & 网站指纹识别相关研究资源汇总</p>
 </h1>
 
 <p align="center">
@@ -140,8 +140,9 @@ Yisroel Mirsky. NDSS 2018. [[code]](https://github.com/ymirsky/Kitsune-py)
 - [FS-Net: A Flow Sequence Network For Encrypted  Traffic Classification](https://ieeexplore.ieee.org/document/8737507/). Chang liu. INFOCOM 2019. [[code]](https://github.com/WSPTTH/FS-Net)
 - [MT-FlowFormer: A Semi-Supervised Flow Transformer for Encrypted Traffic Classification](https://dl.acm.org/doi/10.1145/3534678.3539314). Ruijie Zhao. KDD 2022. 
 
-## Class Imbalance Classification
+## Class Imbalance & Open-set
 
+- [TrafficGPT: An LLM Approach for Open-Set Encrypted Traffic Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5074974). Yasod Ginige. SSRN 2024.
 - [Listen to minority: Encrypted traffic classification for class imbalance with contrastive pre-training](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10287449). Xiang Li. SECON 2023.
 
 ## Diverse Network Environment
